@@ -1,0 +1,6 @@
+# Built by /skate (xcrun swiftc) on first launch
+bin/
+# Laid down by Claude Code each time it loads the mod
+.claude-plugin/types/
+tsconfig.json
+.DS_Store
